@@ -1,2 +1,0 @@
-# Axess-Go
-vending Machine
